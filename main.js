@@ -1,6 +1,6 @@
 var apiai = require('apiai');
  
-var app = apiai("5d1c3ccb0a7644e688411b2e346a3551");
+var app = apiai("91e84e51a069486498a49fafd0a9d3b2");
  
 var request = app.textRequest('<Your text query>');
  
